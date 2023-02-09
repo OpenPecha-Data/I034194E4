@@ -1,0 +1,11 @@
+id: 6acea56fa1db4a18a929ea25de0f0ec9
+annotation_type: index
+revision: '00001'
+annotations:
+  760ce2b95c854a7faa00d66527e7517e:
+    base: C443.txt
+    Chapters:
+    - title: Muktaka
+      span:
+        start: 0
+        end: 3552
